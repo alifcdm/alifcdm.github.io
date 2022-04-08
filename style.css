@@ -18,15 +18,18 @@
 #jawaban3false,
 #jawaban4,
 #jawaban5,
+#clue5a,
 #hiutrue,
 #jawaban7,
+#clue7a,
 #jawaban8,
 #jawaban9,
 #jawaban10,
 #gajahtrue,
 #jawaban12,
-#jawaban13,
-#jawaban14,
+#cattrue,
+#jawaban14true,
+#jawaban14false,
 #jawaban15 {
   display: none;
   padding-top: 20px;
@@ -39,18 +42,45 @@ img {
   width: 600px;
   height: 350px;
 }
-#gambar7,
-#gambar10 {
-  width: 600px;
+#gambar10,
+#no5true,
+#gambar9 {
+  width: 800px;
   height: 175px;
 }
-#hiu,
-#gajah {
+#gambar7 {
+  width: 700px;
+  height: 400px;
+}
+#no5tanya {
+  width: 400px;
+  height: 175px;
+}
+#hiu {
   width: 600px;
   height: 350px;
   padding-left: 250px;
 }
 #gambar12 {
-  width: 1100px;
-  height: 110px;
+  width: 1000px;
+  height: 130px;
+}
+#gajahfalse {
+  width: 300px;
+  height: 400px;
+}
+#cat {
+  width: 600px;
+  height: 450px;
+  padding-left: 250px;
+}
+#cattrue,
+#catfalse {
+  width: 600px;
+  height: 450px;
+}
+#gajahtrue {
+  width: 700px;
+  height: 420px;
+  padding-left: 400px;
 }
